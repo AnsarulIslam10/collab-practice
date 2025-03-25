@@ -95,6 +95,7 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+        <a href="google.com">Google</a>
       </footer>
     </div>
   );
