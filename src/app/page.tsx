@@ -97,6 +97,9 @@ export default function Home() {
         </a>
         <a href="google.com">Google</a>
       </footer>
+
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem earum laboriosam laborum exercitationem, iure vitae ipsa eius ullam architecto iusto.</p>
+      <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates repudiandae dolore, laudantium eos fugiat magnam quis nulla, odit architecto nihil quam numquam, veniam incidunt aspernatur id maxime repellendus! Ab officia perferendis vel error soluta tempora laboriosam, et aliquam tempore libero pariatur amet voluptatem. Voluptatem veniam esse possimus fugiat. Explicabo, perspiciatis.</h1>
     </div>
   );
 }
